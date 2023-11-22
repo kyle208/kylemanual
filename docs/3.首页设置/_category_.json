@@ -1,0 +1,8 @@
+{
+  "label": "3.首页设置",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "插件首页基础设置说明"
+  }
+}

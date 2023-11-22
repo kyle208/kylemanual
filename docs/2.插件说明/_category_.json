@@ -1,0 +1,8 @@
+{
+  "label": "2.插件说明",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "插件界面的说明，用于简易告知用户含义"
+  }
+}
