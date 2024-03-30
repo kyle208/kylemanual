@@ -20,7 +20,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            阅读文档 - 15min ⏱️
+            阅读文档 - 1~30min ⏱️
           </Link>
         </div>
       </div>

@@ -86,7 +86,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/official/docusaurus-social-card.jpg',
       navbar: {
-        title: 'kyle',
+        title: 'kyle综合',
         logo: {
           alt: 'Logo',
           src: 'img/official/logo.svg',
@@ -98,17 +98,10 @@ const config = {
             position: 'left',
             label: '使用手册',
           },
-		  {to: 'http://update.kylenb.top', label: '更新日志', position: 'left'},
-		  {to: 'https://mm.edrawsoft.cn/map.html?sharecode=6253d8466eb376a57323139', label: '功能菜单列表', position: 'left'},
-          {to: '/blog', label: '博客', position: 'left'},
-		  {to: 'http://file.kylenb.top/', label: '【kyle网盘', position: 'left'},
+		  {to: 'http://file.kylenb.top', label: '【kyle网盘', position: 'left'},
 		  {to: 'https://kyle.lanzouw.com/b09meeghi', label: '蓝奏云 密码:6688】', position: 'left'},
-		  {to: 'http://kyle.axi8.cn', label: 'kyle论坛', position: 'left'},
-          {
-            href: 'https://github.com/kyle208',
-            label: 'GitHub',
-            position: 'right',
-          },
+		  {to: 'http://91kyle.cn', label: 'kyle论坛', position: 'left'},
+		  {to: 'http://update.kylenb.top', label: '更新日志', position: 'right'},
         ],
       },
       footer: {
@@ -142,10 +135,6 @@ const config = {
               {
                 label: '博客',
                 to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/kyle208',
               },
             ],
           },
