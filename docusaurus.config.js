@@ -100,7 +100,7 @@ const config = {
           },
 		  {to: 'http://file.kylenb.top', label: '【kyle网盘', position: 'left'},
 		  {to: 'https://kyle.lanzouw.com/b09meeghi', label: '蓝奏云 密码:6688】', position: 'left'},
-		  {to: 'http://91kyle.cn', label: 'kyle论坛', position: 'left'},
+		  //{to: 'http://91kyle.cn', label: 'kyle论坛', position: 'left'},
 		  {to: 'http://update.kylenb.top', label: '更新日志', position: 'right'},
         ],
       },
